@@ -316,7 +316,7 @@ If you reference this framework in a report, thesis, or publication, please cite
 repository (prefer a tagged release version when available):
 
 > Sathananthan, S. S. V. A. (2026). IT9115 Adaptive SOC Research Framework (Version 1.0.0)
-> [Computer software]. https://github.com/<your-username>/IT9115-SOC-Framework
+> [Computer software]. https://github.com/Sree-Ajitha/Adaptive-Open-source-SOC-Framework
 
 Citation metadata is also available in `CITATION.cff` (GitHub's "Cite this repository").
 
