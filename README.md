@@ -215,6 +215,9 @@ IT9115-SOC-Framework/
 ├── CITATION.cff
 └── README.md
 ```
+### Process workflow 
+
+<img width="2112" height="1046" alt="Open SOC framework summary" src="https://github.com/user-attachments/assets/1b8961a8-f50f-482d-b7e8-601927849c90" />
 
 ## Modules
 
