@@ -6,8 +6,8 @@ automated response, and hypothesis-driven evaluation.
 
 ## Overview
 
-This repository contains the research artefacts, ML pipeline code, custom decoder/rule
-definitions, metrics scripts, and configuration supporting the IT9115 master's research
+This repository contains the research artefacts, ML pipeline code, and custom decoder/rule
+definitions, metrics scripts, and configuration supporting my master's research
 project submitted to Whitecliffe, School of Information Technology, Aotearoa New Zealand.
 
 The framework provides a modular, layered pipeline for:
@@ -176,7 +176,7 @@ python src/ml/train_lstm_autoencoder.py --data data/training_alerts.csv
 ## Project Layout
 
 ```
-IT9115-SOC-Framework/
+Adaptive-Open-source-SOC-Framework/
 ├── src/
 │   ├── ml/
 │   │   ├── train_random_forest.py      # Random Forest classifier training
@@ -284,7 +284,7 @@ integration) are stored in `decoders/` and `rules/` respectively. Each rule incl
 ### Dashboard (`src/dashboard/`)
 
 The `custom_dashboard_import.ndjson` file can be imported directly into the Wazuh
-Dashboard to restore the full IT9115 IDS Analysis panel, including per-tool alert
+Dashboard to restore the full IDS Analysis panel, including per-tool alert
 breakdown, MITRE ATT&CK heatmap, live hypothesis scorecard, and active response
 telemetry visualisation.
 
@@ -309,16 +309,6 @@ All attack simulations were conducted within a fully isolated VMware testbed env
 using deliberately vulnerable machines. No production systems, real user data, or external
 networks were involved. This research complies with Whitecliffe's research ethics
 guidelines and Aotearoa New Zealand's Privacy Act 2020.
-
-## How to Cite
-
-If you reference this framework in a report, thesis, or publication, please cite the
-repository (prefer a tagged release version when available):
-
-> Sathananthan, S. S. V. A. (2026). Adaptive SOC Research Framework (Version 1.0.0)
-> [Computer software]. https://github.com/Sree-Ajitha/Adaptive-Open-source-SOC-Framework
-
-Citation metadata is also available in `CITATION.cff` (GitHub's "Cite this repository").
 
 
 ## Acknowledgements
