@@ -321,8 +321,5 @@ pandas, NumPy, Plotly, Matplotlib, and the wider open-source security community.
 Special acknowledgement to the Wazuh community playbook contributors, whose active
 response scripts formed the basis for the SOAR integration tested in this research.
 
-Research supervised by the School of Information Technology, Whitecliffe, Aotearoa
-New Zealand.
-
 "Ehara taku toa i te toa takitahi, engari he toa takitini"
 "My strength is not that of an individual, but that of the collective"
