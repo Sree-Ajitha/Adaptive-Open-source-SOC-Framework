@@ -115,8 +115,10 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/IT9115-SOC-Framework.git
-cd IT9115-SOC-Framework
+git clone https://github.com/<your-username>/Adaptive-Open-source-SOC-Framework.git
+cd Adaptive-Open-source-SOC-Framework
+
+
 ```
 
 ### 2. Install Python dependencies
@@ -316,7 +318,7 @@ guidelines and Aotearoa New Zealand's Privacy Act 2020.
 Built with Wazuh, OpenSearch, Suricata, Zeek, Filebeat, scikit-learn, TensorFlow/Keras,
 pandas, NumPy, Plotly, Matplotlib, and the wider open-source security community.
 
-Special acknowledgement to the Wazuh community playbook contributors whose active
+Special acknowledgement to the Wazuh community playbook contributors, whose active
 response scripts formed the basis for the SOAR integration tested in this research.
 
 Research supervised by the School of Information Technology, Whitecliffe, Aotearoa
