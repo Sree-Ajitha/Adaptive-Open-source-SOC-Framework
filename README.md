@@ -41,7 +41,7 @@ The framework provides a modular, layered pipeline for:
 | H3 | MITRE ATT&CK technique coverage | >= 80% | 15 techniques mapped (>= 80%) |
 | H4 | Detection rate across all attack scenarios | >= 80% | 100% across 35 scenarios |
 
-## Key Results (IT9115 Evaluation Window)
+## Key Results (Adaptive-Open-source-SOC-Framework Evaluation Window)
 
 - 38,179 real-time alerts processed across Zeek (21,286), Suricata (6,503), and
   Wazuh native (10,390) sources
