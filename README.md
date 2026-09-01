@@ -1,11 +1,7 @@
-# Adaptive Open-Source SOC Framework
-### Multi-Sensor Detection, ML-Assisted Alert Triage, and Automated Response for Resource-Constrained Environments
 
-> **Status:** Conference paper under review at IEEE ITNAC 2026.
-> In accordance with the double-blind review process, author and institutional details are omitted from this README until the review outcome is announced.
-
+# An Open-Source SOC Framework for Resource-Constrained Environments with Multi-Sensor Detection and Alert Triage
+### Adaptive Open-Source SOC Framework
 ---
-
 ## Overview
 
 This repository contains the complete implementation, configuration artefacts, evaluation scripts, and result datasets for an open-source Security Operations Centre (SOC) framework designed for small and medium-sized enterprises (SMEs) and other resource-constrained environments.
